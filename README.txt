@@ -1,4 +1,4 @@
-This is a one page portfolio website made from a HTML5 usable template. It showcase my work experience and skills as a Computer Programmer. 
+This is a one page portfolio website made from a HTML5, CSS, and jQuery. It showcase my work experience and skills as a Computer Programmer. 
 
 Credits:
 
